@@ -3,12 +3,6 @@
 
 ## Sisällysluettelo
 
-* [Linkattava sana](http://www.google.com)
-* ![](http://www.google.com/kissa.jpg)
-
-* [Profiili 3](profiili-3)
-
-
 * [Asiakastarina]()
 * [Sidosryhmät ja profiilikuvaukset]()
 * [Sidosryhmäkuva]()
