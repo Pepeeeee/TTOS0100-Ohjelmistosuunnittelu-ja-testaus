@@ -121,6 +121,17 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ![](https://openclipart.org/image/800px/svg_to_png/28058/cfry-Use-Case.png&disposition=attachment)
 
+| Käyttötapaus | Linkki | Muuta |
+|:-:|:-:|:-:|
+| Käyttötapaus LOREM IPSUM1 |  [Käyttötapaus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-
+testaus/blob/master/pohja-kayttotapauskuvaus.md) | - | 
+| Käyttötapaus LOREM IPSUM2 |  [Käyttötapaus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - | 
+| Käyttötapaus LOREM IPSUM3 |  [Käyttötapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - | 
+| Käyttötapaus LOREM IPSUM4 |  [Käyttötapaus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - | 
+
+
+
+
 
 ## Palveluun liittyvät toiminnalliset vaatimukset (Functional Requirements)
 
