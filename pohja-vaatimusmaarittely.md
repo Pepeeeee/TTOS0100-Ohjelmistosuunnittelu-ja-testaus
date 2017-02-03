@@ -119,13 +119,13 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-![](https://imgur.com/a22acYq#)
+![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/UseCase%20-%20Imgur.png)
 
 | Käyttötapaus | Linkki | Muuta |
 |:-:|:-:|:-:|
-| Käyttötapaus LOREM IPSUM1 | [Käyttötapaus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
-| Käyttötapaus LOREM IPSUM2 | [Käyttötapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
-| Käyttötapaus LOREM IPSUM3 | [Käyttötapaus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
+| Käyttötapaus LOREM IPSUM1 | [Käyttötapaus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
+| Käyttötapaus LOREM IPSUM2 | [Käyttötapaus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
+| Käyttötapaus LOREM IPSUM3 | [Käyttötapaus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-kayttotapauskuvaus.md) | - |
 
 
 ## Palveluun liittyvät toiminnalliset vaatimukset (Functional Requirements)
