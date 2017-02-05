@@ -1,11 +1,9 @@
-## KÄYTTÖTAPAUKSEN NIMI esim. *Asiakastietojen muutos*
+## KÄYTTÖTAPAUKSEN NIMI esim. *Käyttäjätietojen muutos*
 
 Yleiskuvaus	Kuvataan lyhyesti mikä on käyttötapauksen tarkoitus/ tehtävä. 
 Esim. Käyttäjä lisää, muuttaa tai poistaa tietoja
 
 ## Kuva
-
-
 
 ![](https://raw.githubusercontent.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/master/images/Actor%20ja%20case.png)
 
