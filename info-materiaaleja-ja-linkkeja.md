@@ -147,6 +147,7 @@ http://www.erto.fi/tyosuhdeopas/tyosopimus/153-liike-ja-ammattisalaisuudet
 
 * [BBST Testing Course](http://www.testingeducation.org/BBST/foundations/)
 * [Guru99 materiaalit](http://www.guru99.com/software-testing-introduction-importance.html)
+* [Tutorialspoint][https://www.tutorialspoint.com/software_testing/software_testing_types.htm]
 * [7-periaatetta](http://www.guru99.com/software-testing-seven-principles.html)
 * [Open Source Security Testing Methodology Manual OSSTMM](http://www.isecom.org/research/)
 * [Ollin tuumailut](http://ollintuumailut.blogspot.fi/2014/04/ohjelmistotestaus-osa.html)
