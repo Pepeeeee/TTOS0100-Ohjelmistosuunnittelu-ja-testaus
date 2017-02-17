@@ -154,7 +154,7 @@ http://www.erto.fi/tyosuhdeopas/tyosopimus/153-liike-ja-ammattisalaisuudet
 * [Testaus Blogi](http://avustaja.blogspot.fi/)
 * [Web Designer Nightmare](http://www.youtube.com/watch?v=CfxTc7_1UVE)
 * [IteWiki](http://www.itewiki.fi)
-* [Vitsi](https://www.youtube.com/watch?v=lXNu0VBVCUc]
+* [Vitsi](https://www.youtube.com/watch?v=lXNu0VBVCUc)
 * [James Bach - Who want's to be a tester!](http://www.youtube.com/watch?v=3FTwaojNkXw) 
 * [James Bach Buccaneer-Tester: Winning your reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 * [Buccaneer Tester?](http://www.qasig.org/presentations/buccaneertester.pdf)
