@@ -10,7 +10,7 @@ Tilanne 13.1.2017
 - [] Mitä tarkoittaa palvelumuotoilu? (Service Design)
 - [] Sidosryhmä? (Stake Holder)
 - [] Sidosryhmäkartta/kuvaus (Stake holder map)
-- []  Asiakaspolku (Customer journey map)
+- [] Asiakaspolku (Customer journey map)
 - [] Tarttumapintakuvaus (Touchpoint diagram)
 - [] Uimaratakaavio (Swim lane diagram)
 - [] Sidosryhmäkartta (Stakeholder map)
@@ -29,18 +29,16 @@ Tilanne 13.1.2017
 ### UML (Universal Modeling Language)
 
 * UML-standardi yleisesti
-* Sekvenssikaavio (Sequence Diagram)
+* Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
 * Use Case (Use Case Diagram)
-* 
-
+* Tilakone (State Chart Diagram)
+* Luokkakaavio (Class Diagram)
 
 ###Prototyyppi (User interface prototyping /mocking)
 
-* MockUp
-* Prototyyppi
+* Mikä on MockUp
+* Mikä on prototyyppi
 * Käyttöliittymä (User Interface)
-
-
  
 ### Ohjelmistotestaus
 
