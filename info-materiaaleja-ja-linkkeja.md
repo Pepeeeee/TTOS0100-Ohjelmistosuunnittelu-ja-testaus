@@ -49,6 +49,7 @@
 * [Asiakas/sidosryhmäkartta - Stakeholder map](http://www.stakeholdermap.com/)
 * Palvelun [Tarttumapintakuvaus / Touch point diagram](http://www.servicedesigntools.org/tools/108)
 * Palvelun [Blueprint](http://www.servicedesigntools.org/tools/35)
+* [The difference between a journey map and a service blueprint](https://blog.practicalservicedesign.com/the-difference-between-a-journey-map-and-a-service-blueprint-31a6e24c4a6c#.6axdwp8iz)
 
 Esimerkkejä Google hausta *"Google:how to draw customer journey map"*, *"Google: how to make use case diagram"*
 
