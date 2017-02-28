@@ -126,6 +126,10 @@ Esimerkkejä Google hausta *"Google:how to draw customer journey map"*, *"Google
 *  [FreeMind tool and](http://www.youtube.com/watch?v=grut_2cardM)
 *  [Service Design Tools](http://www.servicedesigntools.org/)
 
+## Systeemiajattelu
+
+* [Systems & Us](https://systemsandus.com/)
+
 ## Järjestelmäarkkitehtuuri
 
 Tulossa...
