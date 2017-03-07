@@ -28,22 +28,24 @@ Tilanne 27.2.2017
 
 ### UML (Universal Modeling Language)
 
-* UML-standardi yleisesti
-* Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
-* Use Case (Use Case Diagram)
-* Tilakone (State Chart Diagram)
-* Luokkakaavio (Class Diagram)
+- [] UML-standardi yleisesti
+- [] Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
+- [] Use Case (Use Case Diagram)
+- [] Tilakone (State Chart Diagram)
+- [] Luokkakaavio (Class Diagram)
 
 ###Prototyyppi (User interface prototyping /mocking)
 
-* Mikä on prototyyppi
-* Käyttöliittymä (User Interface)
+- [] Mikä on prototyyppi
+- [] Käyttöliittymä (User Interface)
  
 ### Ohjelmistotestaus
 
-* Testitapaus
-* Testaustaso
-* Jäljitettävyys
-* Mustalaatikkotestataus
-* Lasilaatiikotestaus
-* Hyväksyntätestaus
+- [] Testitapaus (Test Case)
+- [] Testisuunnitelma (Test Plan)
+- [] Testaustaso (Testing Level)
+- [] Jäljitettävyys (Traceability)
+- [] Testikohde (Test Target)
+- []  Mustalaatikkotestataus (Blackbox Testing)
+- [] Lasilaatiikotestaus (White Box Testing)
+- [] Hyväksyntätestaus
