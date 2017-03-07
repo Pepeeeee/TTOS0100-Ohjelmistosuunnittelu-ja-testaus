@@ -1,6 +1,6 @@
 # Seuraavat käsitteet ja aiheet tulevat kokeeseen!!
 
-Tässä lista erilaisia käsitteitä ja aiheita, joihin pitää ja kannattaa tutustua ennen koetta!
+Tässä lista erilaisia aihealueita ja käsitteitä, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
 Tilanne 7.3.2017
@@ -8,35 +8,40 @@ Tilanne 7.3.2017
 ###Palvelumuotoilu (Service Desing)
 
 - [] Mitä tarkoittaa palvelumuotoilu? (Service Design)
-- [] Sidosryhmä? (Stake Holder)
+- [] Sidosryhmä (Stake Holder)
 - [] Sidosryhmäkartta/kuvaus (Stake holder map)
 - [] Asiakaspolku (Customer journey map)
-- [] Tarttumapintakuvaus (Touchpoint diagram)
-- [] Uimaratakaavio (Swim lane diagram)
+- [] Uimaratakaavio (Swim Lane diagram)
 - [] Sidosryhmäkartta (Stakeholder map)
 - [] Asiakaspersoonat / profiilit (Personas)
 - [] Kohderyhmä (Focus Group)
 
-###Vaatimusmääritelmä (Requirement Specification)
+###Vaatimusmäärittely (Requirement Specification)
 
+- [] Mitä tarkoitetaan vaatimusmäärittelyllä?
 - [] Asiakkaan toiveet/tarpeet (Customer Needs)
 - [] Liiketoiminta tavoitteet (Business Goals)
 - [] Tuotteen ominaisuus/piirre (Feature)
 - [] Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
 - [] Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
-- [] Toimija (Actor) ja käyttötapaus (Use Case)
+
 
 ### UML (Universal Modeling Language)
 
-- [] UML-standardi yleisesti
+- Mikä tarkoittaa UML?
+- [] UML-standardi yleisesti (Unified Modeling Languange)
+- [] Toimija (Actor) 
+- [] Käyttötapaus (Use Case)
 - [] Viestiyhteyskaavio - sekvenssikaavio (Sequence Diagram)
-- [] Use Case (Use Case Diagram)
 - [] Tilakone (State Chart Diagram)
 - [] Luokkakaavio (Class Diagram)
 
 ###Prototyyppi (User interface prototyping /mocking)
 
-- [] Mikä on prototyyppi
+- [] Wireframe
+- [] HIFI/LOFI 
+- [] Mikä MockUp?
+- [] Mikä on Prototyyppi?
 - [] Käyttöliittymä (User Interface)
  
 ### Ohjelmistotestaus
