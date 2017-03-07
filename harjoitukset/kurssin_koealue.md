@@ -19,12 +19,12 @@ Tilanne 27.2.2017
 
 ###Vaatimusmääritelmä (Requirement Specification)
 
-* Asiakkaan toiveet/tarpeet (Customer Needs)
-* Liiketoiminta tavoitteet (Business Goals)
-* Tuotteen ominaisuus/piirre (Feature)
-* Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
-* Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
-* Toimija (Actor) ja käyttötapaus (Use Case)
+- [] Asiakkaan toiveet/tarpeet (Customer Needs)
+- [] Liiketoiminta tavoitteet (Business Goals)
+- [] Tuotteen ominaisuus/piirre (Feature)
+- [] Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
+- [] Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
+- [] Toimija (Actor) ja käyttötapaus (Use Case)
 
 ### UML (Universal Modeling Language)
 
@@ -36,15 +36,14 @@ Tilanne 27.2.2017
 
 ###Prototyyppi (User interface prototyping /mocking)
 
-* Mikä on MockUp
 * Mikä on prototyyppi
 * Käyttöliittymä (User Interface)
  
 ### Ohjelmistotestaus
 
-* Jäljitettävyys
 * Testitapaus
 * Testaustaso
+* Jäljitettävyys
 * Mustalaatikkotestataus
 * Lasilaatiikotestaus
 * Hyväksyntätestaus
