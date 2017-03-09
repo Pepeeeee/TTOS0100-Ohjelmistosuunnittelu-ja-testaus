@@ -1,5 +1,6 @@
 # Linkkikokoelma
 
+* Videokokoelma [Youtube-kanavan materiaalia](https://www.youtube.com/playlist?list=PLOyRnRI1_Cl6JoS3gjoWpEdAZmraX78rb)
 
 
 # KIRJAT
